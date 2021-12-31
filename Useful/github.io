@@ -12,4 +12,8 @@ bundle install
 4. 서버구동 
 bundle exec jekyll serve
 
-5. http://127.0.0.1:4000 
+5. http://127.0.0.1:4000
+
+블로그 꾸미는 방법 참고
+https://dreamgonfly.github.io/blog/jekyll-remote-theme/
+https://velog.io/@shg4821/깃허브-블로그-만들기-1.5
